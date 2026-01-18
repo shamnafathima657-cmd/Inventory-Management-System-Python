@@ -27,4 +27,5 @@ Core Python mini project implementing an Inventory Management System with add, v
 • Provides hands-on experience with Core Python
 • Helps understand how basic inventory systems work
 
-
+# screen record of project explaining
+https://drive.google.com/open?id=1a_ofyPuqdjtc-09ZfWNJFGsDD2VyHRCL&usp=drive_copy
