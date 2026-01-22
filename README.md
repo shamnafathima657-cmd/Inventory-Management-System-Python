@@ -1,32 +1,96 @@
-# Inventory-Management-System-Python
-Core Python mini project implementing an Inventory Management System with add, view, update, and delete features.
+# INVENTORY MANAGEMENT SYSTEM
+(Mini Project using Core Python)
 
-# Inventory Management System
-# Project Objective
-• To develop a menu-driven Inventory Management System using Core Python
+---
 
-• To manage product records: add, view, update, and delete products
+# INTRODUCTION
 
- # Project Description
-• Beginner-level Python project using dictionary to store product details
-• Demonstrates Python concepts: loops, conditional statements, user input, and menu-driven programming
+Inventory Management System is a simple console-based application developed using Core Python.
+The system helps to manage product details such as product ID, product name, quantity, and price.
 
-# Features
-• Add product details
-• View product list
-• Update product quantity
-• Delete product
-• Exit the program
+This project is developed as  mini project to understand basic Python programming concepts and to implement real-world applications using simple logic.
 
-# Concepts Applied
-• Dictionary data structure
-• While loop
-• If-else conditions
-• Menu-driven programming
+---
 
-# Conclusion
-• Provides hands-on experience with Core Python
-• Helps understand how basic inventory systems work
+# OBJECTIVES OF THE PROJECT
 
-# screen record of project explaining
-https://drive.google.com/open?id=1a_ofyPuqdjtc-09ZfWNJFGsDD2VyHRCL&usp=drive_copy
+- To learn and implement Python programming basics
+- To understand the use of dictionaries for data storage
+- To perform add, view, Update and Delete
+- To improve logical thinking using conditions and loops
+- To develop a menu-driven program
+
+---
+
+# SCOPE OF THE PROJECT
+
+This project is suitable for:
+
+- Beginners in Python
+- Practice of core programming concepts
+
+---
+
+# Concepts Used:
+   - Dictionary
+   - If-Else Conditions
+   - While Loop
+   - Input / Output
+
+---
+
+# SYSTEM FEATURES
+
+- Add new product details
+- View all available products
+- Update product quantity and price
+- Delete product details
+- Simple and user-friendly menu
+
+---
+# 
+DATA STRUCTURE USED
+
+The project uses a dictionary to store inventory data.
+Format:
+
+inventory = {
+    product_id: [product_name, quantity, price]
+}
+
+---
+
+# WORKING OF THE SYSTEM
+
+1. The program displays a menu to the user
+2. The user selects an operation
+3. Based on the choice, the program performs:
+   - Add
+   - View
+   - Update
+   - Delete
+4. The loop continues until the user selects Exit
+
+---
+# SAMPLE MENU
+1. Add Product
+2. View Products
+3. Update Product
+4. Delete Product
+5. Exit
+
+---
+
+# LIMITATIONS
+
+- Data is not stored permanently
+- No database connection
+- Single user system
+
+---
+# CONCLUSION
+
+This Inventory Management System successfully demonstrates how basic Python concepts can be used to build a real-world application.
+The project helped in understanding programming logic, data handling, and problem-solving skills.
+
+
