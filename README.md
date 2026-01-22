@@ -1,9 +1,10 @@
 # Inventory-Management-System-Python
 Core Python mini project implementing an Inventory Management System with add, view, update, and delete features.
 
-# nventory Management System (Core Python)
+# Inventory Management System
 # Project Objective
 • To develop a menu-driven Inventory Management System using Core Python
+
 • To manage product records: add, view, update, and delete products
 
  # Project Description
