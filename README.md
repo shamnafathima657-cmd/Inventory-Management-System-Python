@@ -93,4 +93,7 @@ inventory = {
 This Inventory Management System successfully demonstrates how basic Python concepts can be used to build a real-world application.
 The project helped in understanding programming logic, data handling, and problem-solving skills.
 
+# project explanation video
+https://drive.google.com/file/d/1B3mzNdEh7YWyCWVIK5I7_-ifNQjBP-XF/view?usp=drive_link
+
 
